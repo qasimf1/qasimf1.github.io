@@ -89,7 +89,9 @@ header, footer {
 /* Typography Styles */
 html
 {font-family: montserrat, Arial, sans-serif;}
-h1, h2, {font-family:josefinslab, georgia, serif;}
+h1, h2
+ {font-family: josefinslab, georgia, serif;}
+
 h1{font-size: 3.75rem;
     margin: 1.125rem;
     text-align: center;}
