@@ -83,6 +83,9 @@ h1{
  transform: rotate(-5deg);
 
 }
+.expand{
+    font-size: 0.25rem; 
+}
 .highlight {
 font-family: ultra, Georgia, serif ;
 display: inline-block;
